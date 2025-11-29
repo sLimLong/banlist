@@ -8,9 +8,7 @@
 
 <blacklisted platform="EOS" userid="000260873f6b4c7cac48f88d2ecf8fa2" unbandate="2026-10-01 10:01:42" reason="cheat" />
 
-<blacklisted platform="EOS" userid="0002b5e44e3a45beb6798e012da165e4" name="ban" unbandate="2026-10-01 10:01:55" reason="cheat" />
-
-<blacklisted platform="Steam" userid="76561197997974133" name="ban" unbandate="2026-10-01 10:02:00" reason="cheat" />
+<blacklisted platform="EOS" userid="000279a35591449391a27d3246f9570e" name="ban" unbandate="2026-10-01 10:01:55" reason="cheat" />
 
 <blacklisted platform="Steam" userid="76561198889527176" name="ban" unbandate="2026-10-01 10:02:06" reason="cheat" />
 
@@ -80,3 +78,4 @@
 
 
 </blacklist>
+
