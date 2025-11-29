@@ -64,7 +64,6 @@
 
 <blacklisted platform="EOS" userid="0002640bc0fd440695673f205d1ac31a" name="MARICH" unbandate="2691-09-30 14:56:50" reason="cheat" />
 
-
 <blacklisted platform="EOS" userid="00028b60ba594dd482acc267fce593be" unbandate="2691-09-30 17:55:42" reason="cheat" />
 
 <blacklisted platform="EOS" userid="000262e6fe2a43c49de0298a6d9ab0d6" unbandate="2691-07-02 19:58:16" reason="Cheat" />
@@ -75,7 +74,86 @@
 
 <blacklisted platform="EOS" userid="00023403dce043dabf9875400b75a9f2" name="Oduvan4ik" unbandate="2030-11-10 03:58:16" reason="Cheat Detected: Auto kicked {PlayerName} for having a invalid item: gunToolDiggerAdmin" />
 
+<blacklisted platform="EOS" userid="00020118faf84953941a74de096e720c" name="EggNog" unbandate="2021-12-19 23:27:35″ reason="Hacking" />
 
+<blacklisted platform="EOS" userid="0002b3cd077d486fb7a045465981a01″ name="Old Town Road" unbandate="2021-12-19 23:27:35″ reason="Hacking" />
+
+<blacklisted platform="EOS" userid="00020118faf84953941a74de096e720c" name="EggNog" unbandate="2021-12-19 23:27:35" reason="Hacking" />
+
+<blacklisted platform="EOS" userid="0002b3cd077d486fb7a045465981a01" name="Old Town Road" unbandate="2021-12-19 23:27:35" reason="Hacking" />
+
+<blacklisted platform="EOS" userid="00025657ac914ae8ae086b3c94d5f2c0" name="daysames7744" unbandate="2031-12-20 12:44:43" reason="Hacking" />
+
+<blacklisted platform="EOS" userid="0002756d9b894a3b84a46c9eef323c4" name="brandon.davis0829" unbandate="2031-12-20 12:44:43" reason="Hacking" />
+
+<blacklisted platform="EOS" userid="0002756d9b894a3b84a46c9eef323c4f" name="brandon.davis0829" unbandate="2031-12-22 20:12:11" reason="Hacking" />
+
+<blacklisted platform="Steam" userid="76561198011937476" unbandate="2022-06-26 04:51:24" reason="Hacking" />
+
+<blacklisted platform="EOS" userid="0002a780112b444790f053192a24cdb3" name="Piesicle" unbandate="2121-12-29 06:44:44" reason="spamming the N word" />
+
+<blacklisted platform="Steam" userid="76561198831231565" unbandate="2022-06-29 20:27:10" reason="Hackings" />
+
+<blacklisted platform="Steam" userid="76561198255757701" unbandate="2022-06-29 20:28:32" reason="Hacking" />
+
+<blacklisted platform="EOS" userid="00027b22a4da41e985f196cf1539c26" name="ChrisTheMan9" unbandate="2021-12-19 23:27:35" reason="Hacking" />
+
+<blacklisted platform="EOS" userid="00021be285784dfe81f2a1bfa489468" name="AxisDBD" unbandate="2021-12-19 23:27:35" reason="Hacking" />
+
+<blacklisted platform="EOS" userid="0002b2f4f3554467813bf772dfe3eed" name="myg0t.win" unbandate="2121-12-31 20:20:39" reason="Hacking" />
+
+<blacklisted platform="EOS" userid="76561198120165925" name="Hetjax" unbandate="2121-12-31 20:20:39" reason="Hacking" />
+
+<blacklisted platform="Steam" userid="76561199152597557" unbandate="2022-07-05 18:13:05" reason="Hacking" />
+
+<blacklisted platform="Steam" userid="76561199209833285" unbandate="2032-01-06 19:15:09" reason="Hacking" />
+
+<blacklisted platform="EOS" userid="00024a0de9464e569a4d2f18e4fa56c3" name="evilwarrant" unbandate="2032-01-08 14:23:04" reason="Hacking" />
+
+<blacklisted platform="Steam" userid="76561198105090370" unbandate="2032-01-08 15:47:09" reason="Hacking" />
+
+<blacklisted platform="Steam" userid="76561198194780202" unbandate="2032-03-29 10:28:21" reason="Hacking" />
+
+<blacklisted platform="Steam" userid="76561198014873135" unbandate="2032-01-12 00:18:17" reason="Toxic Players" />
+
+<blacklisted platform="EOS" userid="0002d76d3a60440b8e086e4c4c2f4983" name="Yahmahn" unbandate="2032-01-18 01:00:18" reason="Toxic" />
+
+<blacklisted platform="Steam" userid="76561199135059231" unbandate="2022-01-29 18:11:32" reason="Hacking" />
+
+<blacklisted platform="EOS" userid="0002b38d595f42cfa1d37b844e27484f" name="linuhgu" unbandate="2032-01-25 01:53:56" reason="Hacking" />
+
+<blacklisted platform="Steam" userid="76561198819887397" unbandate="2022-07-25 23:02:39" reason="Hacking" />
+
+<blacklisted platform="EOS" userid="0002c358795e40828e2612a371f1f426" name="titusassole" unbandate="2122-01-27 22:48:25" reason="Racism" />
+
+<blacklisted platform="EOS" userid="0002d796674344f98783af096c04d0f3" name="BLAZN4KILLS" unbandate="2122-01-30 01:05:01" reason="Racism" />
+
+<blacklisted platform="EOS" userid="000286db907d42f4878813c4bb053e34" name="ClownShoes" unbandate="2122-01-30 01:05:39" reason="Racism" />
+
+<blacklisted platform="EOS" userid="0002fac13e2d46fe8bdbedbdd60378eb" name="Flame" unbandate="2122-01-30 01:06:23" reason="Racism" />
+
+<blacklisted platform="Steam" userid="76561199058874955" unbandate="2032-01-30 01:07:08" reason="Racism" />
+
+<blacklisted platform="EOS" userid="000239a257b543f3b835ef04120c97aa" name="Magic Man" unbandate="2032-01-30 22:13:38" reason="Toxic" />
+
+<blacklisted platform="Steam" userid="76561198101005139" unbandate="2032-01-31 08:14:01" reason="Toxic" />
+
+<blacklisted platform="Steam" userid="76561199220287840" unbandate="2032-01-31 14:22:39" reason="Racist and Toxic" />
+
+<blacklisted platform="Steam" userid="76561198000983515" unbandate="2022-02-07 18:45:12" reason="Toxic" />
+
+<blacklisted platform="EOS" userid="000274f4f3574100b1564ebd2ff9799a" name="The Janitor" unbandate="2122-02-06 22:34:39" reason="Nice Racism Fool" />
+
+<blacklisted platform="Steam" userid="76561198125985562" unbandate="2032-02-17 09:48:24" reason="Zombie Raiding a player base and being toxic" />
+
+<blacklisted platform="Steam" userid="76561199233837150" unbandate="2022-12-17 09:48:44" reason="Zombie Raiding a player base and being toxic" />
+
+<blacklisted platform="Steam" userid="76561199094630032" unbandate="2032-02-17 09:49:02" reason="Zombie Raiding a player base and being toxic" />
+
+<blacklisted platform="EOS" userid="00022af98f954ad0808155487d2c8347" name="Cash" unbandate="2022-04-03 00:19:35" reason="Spamming" />
+
+<blacklisted platform="Steam" userid="76561198079019751" unbandate="2022-06-14 00:53:03" reason="stealing from player base" />
 
 </blacklist>
+
 
