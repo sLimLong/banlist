@@ -1,0 +1,188 @@
+<blacklist>
+<blacklisted platform="EOS" userid="00020100589a42398f34a91e7bad7e45" unbandate="2026-10-01 10:00:43" reason="VPN" />
+
+<blacklisted platform="EOS" userid="00022ff135fe497582dea96a0d58161b" name="Players" unbandate="2026-10-01 10:00:44" reason="CSMM:" />
+
+<blacklisted platform="EOS" userid="000224973a654b2697338bbe0b75e86b" name="Players" unbandate="2026-10-01 10:00:44" reason="CSMM:" />
+
+<blacklisted platform="EOS" userid="0002f809edff445b8d5d5c418e96c60a" unbandate="2026-10-01 10:00:44" reason="Cheat" />
+
+<blacklisted platform="EOS" userid="0002017d417c4e07af7e861b95b02a52" unbandate="2026-10-01 10:00:50" reason="Cheat" />
+
+<blacklisted platform="EOS" userid="0002f6c99fae48549ad0e450d3043251" unbandate="2026-10-01 10:00:55" reason="" />
+
+<blacklisted platform="EOS" userid="00028826936542eb9c3822148dd014fd" unbandate="2026-10-01 10:01:01" reason="2.1" />
+
+<blacklisted platform="EOS" userid="0002853d5da8473fa805b4fa9c8f5e71" unbandate="2026-10-01 10:01:05" reason="2.3" />
+
+<blacklisted platform="EOS" userid="0002a9aeb6304a3391f72c371cecba8b" unbandate="2026-10-01 10:01:16" reason="2.3" />
+
+<blacklisted platform="EOS" userid="0002f05bb1444bcfb67b724bc5d5089e" unbandate="2026-10-01 10:01:21" reason="2.3" />
+
+<blacklisted platform="EOS" userid="0002e0d48d9a4329a989724bd3e73571" unbandate="2025-08-23 21:25:40" reason="3.3,3.4,3.5" />
+
+<blacklisted platform="EOS" userid="0002281c88a342ea9c93fd63f59cbad2" unbandate="2026-10-01 10:01:21" reason="2.3" />
+
+<blacklisted platform="EOS" userid="000276a1dd864df8b2c13626cf56c58c" unbandate="2026-10-01 10:01:30" reason="2.3" />
+
+<blacklisted platform="EOS" userid="00020b2dd7a44d238982df34d0bfa027" unbandate="2026-10-01 10:01:31" reason="" />
+
+<blacklisted platform="EOS" userid="0002f86f94284d24ae2101ec3db5b116" unbandate="2026-10-01 10:01:37" reason="" />
+
+<blacklisted platform="EOS" userid="000260873f6b4c7cac48f88d2ecf8fa2" unbandate="2026-10-01 10:01:42" reason="1.6" />
+
+<blacklisted platform="EOS" userid="0002ebd9ae094434907f817232f915dc" unbandate="2026-10-01 10:01:47" reason="2.7,2.9" />
+
+<blacklisted platform="EOS" userid="00029a838eaf432faa3ced1d70ca19ec" unbandate="2026-10-01 10:01:50" reason="2.7,2.9" />
+
+<blacklisted platform="Steam" userid="76561198143375350" unbandate="2025-01-03 18:38:52" reason="2.11.2" />
+
+<blacklisted platform="EOS" userid="0002b5e44e3a45beb6798e012da165e4" name="ban" unbandate="2026-10-01 10:01:55" reason="old" />
+
+<blacklisted platform="Steam" userid="76561197997974133" name="ban" unbandate="2026-10-01 10:02:00" reason="old" />
+
+<blacklisted platform="Steam" userid="76561198889527176" name="ban" unbandate="2026-10-01 10:02:06" reason="old" />
+
+<blacklisted platform="Steam" userid="76561198936022384" unbandate="2691-01-04 13:41:30" reason="old ban" />
+
+<blacklisted platform="Steam" userid="76561198026720614" unbandate="2691-01-04 13:41:30" reason="old ban" />
+
+<blacklisted platform="EOS" userid="00020f399aa748e18cc0b377281348b1" name="江南水会38号女技师" unbandate="2691-01-04 17:28:22" reason="CN" />
+
+<blacklisted platform="EOS" userid="000246d3849c4c3696e6d8c1afba1036" name="wdjiba_binida" unbandate="2691-01-04 17:28:48" reason="CN" />
+
+<blacklisted platform="EOS" userid="0002d1e98c784dc79ed6fc7c1c3b3099" unbandate="2025-01-10 08:31:27" reason="2.11" />
+
+<blacklisted platform="EOS" userid="00020b950a4348f89dad532b0fe7c6e2" unbandate="2025-01-13 18:15:24" reason="2.9.1" />
+
+<blacklisted platform="EOS" userid="00025bda1d024f19aa1f46574a1ae92d" name="Lost" unbandate="2691-01-13 11:44:16" reason="2.1" />
+
+<blacklisted platform="EOS" userid="00021740e0be407ba3269eaea95f357b" name="Мажор" unbandate="2691-01-13 11:45:15" reason="2.1" />
+
+<blacklisted platform="EOS" userid="00020d9c15ab4839bff4fd43c4440ad9" name="Michen" unbandate="2030-01-07 20:52:46" reason="Auto detection has banned you for spectator mode" />
+
+<blacklisted platform="EOS" userid="0002262e5d774d23a2542a74b72d2328" name="DED MOROZ" unbandate="2085-01-15 20:39:48" reason="2.9.1" />
+
+<blacklisted platform="EOS" userid="0002281661974ae68b4ab046b6cea5a5" name="Da_Nu_Na" unbandate="2691-01-16 21:26:29" reason="2.3.2" />
+
+<blacklisted platform="EOS" userid="00023cff8e2a4f82ac1d9a1020ad0258" name="Emilmann" unbandate="2791-01-16 21:26:29" reason="2.3.5" />
+
+<blacklisted platform="Steam" userid="76561198817935885" name="3402039494" unbandate="2125-01-30 12:49:57" reason="CSMM: Players from your country (CN) are not allowed to connect to this server." />
+
+<blacklisted platform="EOS" userid="0002e1da95754eecb7497b4e91fe49e6" unbandate="2025-02-01 02:42:41" reason="3.4" />
+
+<blacklisted platform="EOS" userid="000236854d1545d88c43dc33b61e7383" unbandate="2025-02-01 00:46:27" reason="3.3" />
+
+<blacklisted platform="EOS" userid="0002b4da39bb42b4b2ebc847dbccbd5d" unbandate="2691-02-03 14:15:13" reason="666" />
+
+<blacklisted platform="EOS" userid="0002d59ac75b4475b19d7e7264605ef0" name="布衣" unbandate="2125-02-07 13:48:36" reason="CSMM: Players from your country (CN) are not allowed to connect to this server." />
+
+<blacklisted platform="EOS" userid="0002b58c639947a3931de0441212b6d2" name="Farmer" unbandate="2025-02-08 21:07:48" reason="2.12" />
+
+<blacklisted platform="EOS" userid="0002525f0ca54ca6a714ba7c0e1cfa30" unbandate="2025-02-14 06:56:34" reason="3.2/3.5" />
+
+<blacklisted platform="EOS" userid="0002e43df7d04a1781144872e5e4da27" name="梅零落" unbandate="2691-03-04 13:11:01" reason="" />
+
+<blacklisted platform="EOS" userid="000298922b34446c89eae5be44b554f3" unbandate="2025-04-14 09:36:09" reason="2.11.1" />
+
+<blacklisted platform="EOS" userid="0002a156f18c4fe49eed19ae1a667a91" unbandate="2691-04-17 06:51:10" reason="2.3,2.7" />
+
+<blacklisted platform="EOS" userid="00021bac19044b818f638a07c5eb110b" name="Ковальски" unbandate="2691-04-20 20:46:21" reason="1.8" />
+
+<blacklisted platform="EOS" userid="000270e65b1449279728663e4250c8a6" name="Шкипер" unbandate="2691-04-20 20:46:34" reason="1.8" />
+
+<blacklisted platform="EOS" userid="0002e7ce9d94449aab90ad78c61426cd" name="BRABUS" unbandate="2025-01-26 21:55:05" reason="2.9.1" />
+
+<blacklisted platform="EOS" userid="0002e79f107246b7a595cc85471ad9d8" name="乱杀大王" unbandate="2125-01-28 16:33:47" reason="CSMM: Players from your country (CN) are not allowed to connect to this server." />
+
+<blacklisted platform="EOS" userid="0002f24b51e94ff0a3bfac9a2005e76e" unbandate="2691-02-05 19:50:53" reason="666" />
+
+<blacklisted platform="EOS" userid="00029077e4e049a1b6ed2793c7ab647a" name="SerGeek" unbandate="2125-02-16 07:03:51" reason="CSMM: Players from your country (JP) are not allowed to connect to this server." />
+
+<blacklisted platform="EOS" userid="0002739803a94f0a880318072aa4d347" unbandate="2025-02-17 17:14:22" reason="2.11" />
+
+<blacklisted platform="EOS" userid="0002401ef382436e9089dff0589221ed" unbandate="2691-02-25 15:11:29" reason="2.3.5" />
+
+<blacklisted platform="EOS" userid="0002fbd076ae4b55937df23eeae0358f" unbandate="2691-03-13 08:16:46" reason="2.3" />
+
+<blacklisted platform="EOS" userid="0002dbc7907c4a908832fdd93676cb4a" unbandate="2691-03-20 06:24:55" reason="2.3" />
+
+<blacklisted platform="EOS" userid="00020673e7bd4f79a786eaf3a26ff79d" name="xxxSOBRxxx" unbandate="2025-05-12 20:54:23" reason="2.7" />
+
+<blacklisted platform="EOS" userid="000248169f394305b8a4a008dc495510" unbandate="2691-05-06 21:13:10" reason="2.3.5,2.3.2" />
+
+<blacklisted platform="EOS" userid="0002b832bf7340f48bafcdf32bce5845" unbandate="2025-05-12 09:16:56" reason="2,11" />
+
+<blacklisted platform="EOS" userid="000252578eeb49fdba707877fd2952e8" unbandate="2025-05-12 09:21:16" reason="2,11" />
+
+<blacklisted platform="EOS" userid="000226824a9e4abf9fd67ef18d745b06" unbandate="2691-05-20 14:07:25" reason="2,3" />
+
+<blacklisted platform="EOS" userid="00020109d6424c37b92ff7c119d34b9d" unbandate="2691-05-29 01:33:43" reason="2.3.5,2.3.2" />
+
+<blacklisted platform="EOS" userid="000215cee4764f46b11cc7f44cdcad15" unbandate="2025-05-28 13:56:57" reason="2,11" />
+
+<blacklisted platform="EOS" userid="0002068173ec461185d6a7b2fb5e1571" unbandate="2691-05-29 01:33:15" reason="2.3.5,2.3.2" />
+
+<blacklisted platform="EOS" userid="0002fe15cc9f433fb8b2ca118cc651c6" name="错了不是我错了你们都" unbandate="2691-06-02 22:58:00" reason="VPN" />
+
+<blacklisted platform="Steam" userid="76561199589686859" unbandate="2691-06-04 16:12:24" reason="" />
+
+<blacklisted platform="EOS" userid="0002ae2a3a7c4a19b7c906f2d62137db" unbandate="2691-06-23 23:04:57" reason="1.6" />
+
+<blacklisted platform="EOS" userid="0002cfdd5c884ca286c19c6463ed7868" unbandate="2691-06-23 23:05:56" reason="1.6" />
+
+<blacklisted platform="EOS" userid="00022e6d684b404498a7b18961f20868" unbandate="2691-06-30 01:42:38" reason="2,3" />
+
+<blacklisted platform="EOS" userid="0002265a79b64935a721ec816b622e6b" unbandate="2691-06-30 01:43:53" reason="2,3" />
+
+<blacklisted platform="EOS" userid="000225d22bcb4e38bd3b3c6493395c6b" name="Dtarg" unbandate="2691-06-30 20:45:13" reason="666" />
+
+<blacklisted platform="EOS" userid="000262e6fe2a43c49de0798a6d9ab0d6" unbandate="2691-07-02 19:58:16" reason="Cheat" />
+
+<blacklisted platform="EOS" userid="0002f597738a411d963d1945135d7007" unbandate="2691-07-07 19:33:22" reason="2.3.5" />
+
+<blacklisted platform="EOS" userid="0002c6aef9554000b139013ed49b9613" unbandate="2691-07-07 19:33:22" reason="2.3.5" />
+
+<blacklisted platform="EOS" userid="00029b9804a64088bf44379a9cabaab8" unbandate="2025-07-07 20:04:10" reason="2.3.5" />
+
+<blacklisted platform="EOS" userid="000263e7d6a84a73bfe0df917c54c44d" name="bopw" unbandate="2025-07-01 23:00:57" reason="3.3" />
+
+<blacklisted platform="EOS" userid="0002208d3898406a85df63fb20674244" unbandate="2025-07-11 17:01:02" reason="3.3,3.4,3.5" />
+
+<blacklisted platform="EOS" userid="0002078703764c389bc4348689a6daa3" unbandate="2691-07-09 22:31:06" reason="2.1" />
+
+<blacklisted platform="EOS" userid="00026768e7184eedba2c0fc90001f967" unbandate="2025-12-10 22:42:56" reason="2,3" />
+
+<blacklisted platform="EOS" userid="0002ff99621943b4aeda81eb6e53c861" unbandate="2691-07-13 21:09:14" reason="1.8" />
+
+<blacklisted platform="EOS" userid="0002a8ce28e4437b83109127486172bf" name="TigerBY" unbandate="2691-09-30 14:55:13" reason="pnh" />
+
+<blacklisted platform="EOS" userid="00022f0e78994dcf9d3276912b335d1f" name="Maloy" unbandate="2691-09-30 14:56:16" reason="cheat" />
+
+<blacklisted platform="EOS" userid="0002640bc0fd440695673f205d1ac31a" name="MARICH" unbandate="2691-09-30 14:56:50" reason="cheat" />
+
+<blacklisted platform="EOS" userid="0002b8fc091b4f27971c571214636d0b" name="pervyisanja" unbandate="2691-09-30 15:36:05" reason="VPN" />
+
+<blacklisted platform="EOS" userid="00028b60ba594dd482acc267fce593be" unbandate="2691-09-30 17:55:42" reason="cheat" />
+
+<blacklisted platform="EOS" userid="000262e6fe2a43c49de0298a6d9ab0d6" unbandate="2691-07-02 19:58:16" reason="Cheat" />
+
+<blacklisted platform="EOS" userid="00024eb88f804dbd9618eb108db73cf1" unbandate="2026-12-30 09:43:48" reason="2.3.2,2.6" />
+
+<blacklisted platform="EOS" userid="00020da6bec644ada9e7b34176630181" name="3402039494" unbandate="2125-01-30 12:49:57" reason="CSMM: Players from your country (CN) are not allowed to connect to this server." />
+
+<blacklisted platform="EOS" userid="000269e10638414cad3eac40b998ad0b" name="detection" unbandate="2030-10-07 11:09:07" reason="Auto" />
+
+<blacklisted platform="EOS" userid="0002380818d04db4af38bfaffe30d6cc" unbandate="2691-10-24 12:49:54" reason="2.3" />
+
+<blacklisted platform="EOS" userid="000245fc226144daaedee1a463fbefc0" unbandate="2691-10-24 12:50:07" reason="2.3" />
+
+<blacklisted platform="EOS" userid="000228c10cd748a29fe07b8a15a12dbe" unbandate="2025-11-29 20:49:46" reason="2.9.1" />
+
+<blacklisted platform="EOS" userid="0002d84fff2248078c781ec42428f342" name="&#xA;" unbandate="2030-11-07 01:40:18" reason="Auto detection has banned you for godmode" />
+
+<blacklisted platform="EOS" userid="00023403dce043dabf9875400b75a9f2" name="Oduvan4ik" unbandate="2030-11-10 03:58:16" reason="Cheat Detected: Auto kicked {PlayerName} for having a invalid item: gunToolDiggerAdmin" />
+
+<blacklisted platform="EOS" userid="0002fda63a10483cae77a7bd9b0e954e" unbandate="2691-11-15 18:20:27" reason="2.3" />
+
+</blacklist>
