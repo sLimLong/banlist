@@ -76,7 +76,7 @@
 
 <blacklisted platform="EOS" userid="00020118faf84953941a74de096e720c" name="EggNog" unbandate="2021-12-19 23:27:35″ reason="Hacking" />
 
-<blacklisted platform="EOS" userid="0002b3cd077d486fb7a045465981a01″ name="Old Town Road" unbandate="2021-12-19 23:27:35″ reason="Hacking" />
+<blacklisted platform="EOS" userid="0002b3cd077d486fb7a045465981a01" name="Old Town Road" unbandate="2021-12-19 23:27:35″ reason="Hacking" />
 
 <blacklisted platform="EOS" userid="00020118faf84953941a74de096e720c" name="EggNog" unbandate="2021-12-19 23:27:35" reason="Hacking" />
 
@@ -155,5 +155,6 @@
 <blacklisted platform="Steam" userid="76561198079019751" unbandate="2022-06-14 00:53:03" reason="stealing from player base" />
 
 </blacklist>
+
 
 
